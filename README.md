@@ -4,7 +4,8 @@
 Various star patterns via Python programming language has been as follows:
 
 ###Ascending Order of Star Patterns
-File Name: **ascending_order_star_pattern.py**
+File Name: **ascending_order_star_pattern.py**.
+
 The following pattern is shown based on user input:
 ####Sample Input/Output
 ```
@@ -35,7 +36,8 @@ The pattern is:
 
 
 ###Descending Order of Star Patterns
-File Name: **descending_order_star_pattern.py**
+File Name: **descending_order_star_pattern.py**.
+
 The following pattern is shown based on user input:
 ####Sample Input/Output
 ```
@@ -66,7 +68,8 @@ The pattern is:
 ```
 
 ###Pyramid Star Patterns
-File Name: **pyramid_star_pattern.py**
+File Name: **pyramid_star_pattern.py**.
+
 The following pattern is shown based on user input:
 ####Sample Input/Output
 ```
