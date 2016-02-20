@@ -100,4 +100,35 @@ The pattern is:
 
 ```
 
+###Reverse Pyramid Star Patterns
+File Name: **reverse_pyramid_star_pattern.py**.
 
+The following pattern is shown based on user input:
+####Sample Input/Output
+```
+Enter the number of rows for the star pattern
+10
+
+The pattern is:
+
+* * * * * * * * * * * * * * * * * * * 
+
+  * * * * * * * * * * * * * * * * * 
+
+    * * * * * * * * * * * * * * * 
+
+      * * * * * * * * * * * * * 
+
+        * * * * * * * * * * * 
+
+          * * * * * * * * * 
+
+            * * * * * * * 
+
+              * * * * * 
+
+                * * * 
+
+                  * 
+
+```
