@@ -2,7 +2,7 @@
 
 #Asking the user to enter the number of rows for star pattern print
 no_of_rows  =   int(raw_input("\nEnter the number of rows for the star pattern\n"))
-print "The patter is:\n"
+print "The pattern is:\n"
 
 #While the total number of rows are met for printing the respective star pattern
 while (no_of_rows > 0):
